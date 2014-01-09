@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Adminhtml/System/Config/Field/Ip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/creativestyle-dev/ip_select.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/controllers/IndexController.php" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/controllers/IndexController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
     </list>
     <ignored path="magento-dev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,6 +11,7 @@
     <file path="/IndexController.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389277928863" ignored="false" />
     <file path="/Ip.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389276675568" ignored="false" />
     <file path="/Observer.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389277979608" ignored="false" />
+    <file path="/README" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389278364423" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +67,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Observer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Observer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="66" selection-start="778" selection-end="778" vertical-scroll-proportion="0.64030135">
+            <state line="19" column="16" selection-start="646" selection-end="646" vertical-scroll-proportion="-7.3461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="72" selection-start="264" selection-end="264" vertical-scroll-proportion="0.12208258">
               <folding />
             </state>
           </provider>
@@ -142,6 +147,7 @@
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -841,7 +847,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="66" selection-start="778" selection-end="778" vertical-scroll-proportion="0.64030135">
+        <state line="19" column="16" selection-start="646" selection-end="646" vertical-scroll-proportion="-7.3461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="72" selection-start="264" selection-end="264" vertical-scroll-proportion="0.12208258">
           <folding />
         </state>
       </provider>
