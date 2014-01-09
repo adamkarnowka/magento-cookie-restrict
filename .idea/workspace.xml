@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Adminhtml/System/Config/Source/Blocks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/magicento.xml" afterPath="$PROJECT_DIR$/.idea/magicento.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" />
     </list>
     <ignored path="magento-dev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,21 +136,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="0" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.7253142">
+            <state line="77" column="0" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql4-install-0.1.1.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mysql4-install-0.1.1.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="-11.769231">
+            <state line="18" column="0" selection-start="994" selection-end="994" vertical-scroll-proportion="0.5907336">
               <folding>
-                <marker date="1389285074892" expanded="true" signature="144:362" placeholder="..." />
+                <marker date="1389286134972" expanded="true" signature="143:516" placeholder="..." />
+                <marker date="1389286134972" expanded="true" signature="613:629" placeholder="..." />
+                <marker date="1389286134972" expanded="true" signature="641:677" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -191,8 +186,8 @@
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" />
       </list>
     </option>
   </component>
@@ -691,19 +686,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="-11.769231">
-          <folding>
-            <marker date="1389285074892" expanded="true" signature="144:362" placeholder="..." />
-          </folding>
+        <state line="77" column="0" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="0" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.7253142">
-          <folding />
+        <state line="18" column="0" selection-start="994" selection-end="994" vertical-scroll-proportion="0.5907336">
+          <folding>
+            <marker date="1389286134972" expanded="true" signature="143:516" placeholder="..." />
+            <marker date="1389286134972" expanded="true" signature="613:629" placeholder="..." />
+            <marker date="1389286134972" expanded="true" signature="641:677" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
