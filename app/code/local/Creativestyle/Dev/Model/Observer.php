@@ -2,6 +2,15 @@
 
 class Creativestyle_Dev_Model_Observer extends Mage_Core_Model_Observer {
     public function checkCookie(){
+        $module = Mage::app()->getRequest()->getModuleName();
+        $controller = Mage::app()->getRequest()->getControllerName();
+        $action = Mage::app()->getRequest()->getActionName();
+        $route = Mage::app()->getRequest()->getRouteName();
+
+        if($module=='creativestyle-dev'&&$controller=='index'&&$action=='enable'){
+            return $this;
+        }
+
         $protectionEnabled = Mage::getStoreConfig('dev/csoptions/cookie_protection_enabled');
 
         if(!$protectionEnabled || Mage::app()->getStore()->isAdmin()){
