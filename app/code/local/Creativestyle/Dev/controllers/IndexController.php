@@ -11,7 +11,7 @@ class Creativestyle_Dev_IndexController extends Mage_Core_Controller_Front_Actio
 
         $cookie = Mage::getSingleton('core/cookie');
         $lifetime = 86400 * (int)Mage::getStoreConfig('dev/csoptions/cookie_lifetime');
-        $cookie->set('creativestyle_debug_cookie', 'enabled' ,time()+$lifetime,'/');
+        $cookie->set(Mage::getStoreConfig('dev/csoptions/cookie_name'), 'enabled' ,time()+$lifetime,'/');
 
         $this->_redirect('/');
     }
