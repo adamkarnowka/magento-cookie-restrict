@@ -1,7 +1,6 @@
 Extension for Magento developers, including cookie based protection and adding unique timestamp for static files (css, js).
 
 Screenshot:
-<a href="http://albemuth.pl/ak/2014-01-09_153851.png">
-    <img src="http://albemuth.pl/ak/2014-01-09_153851.png"  width="600" />
-</a>
+![Alt text](http://albemuth.pl/ak/2014-01-09_153851.png "Screenshot")
+
 More features to come later.
