@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Adminhtml/System/Config/Source/Blocks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/magicento.xml" afterPath="$PROJECT_DIR$/.idea/magicento.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" afterPath="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magento-dev.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389276029103" ignored="false" />
-    <file path="/system.xml" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389277014063" ignored="false" />
+    <file path="/system.xml" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389280767988" ignored="false" />
     <file path="/IndexController.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389277928863" ignored="false" />
     <file path="/Ip.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389276675568" ignored="false" />
-    <file path="/Observer.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389277979608" ignored="false" />
+    <file path="/Observer.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389281050271" ignored="false" />
     <file path="/README" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389278468391" ignored="false" />
     <file path="/README.md" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389278966863" ignored="false" />
+    <file path="/Blocks.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389280666679" ignored="false" />
+    <file path="/mysql4-install-0.1.1.php" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389285024726" ignored="false" />
+    <file path="/config.xml" changelist="86f0d80b-1c53-495a-a6ef-e98c8246f2bc" time="1389285187357" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,24 +42,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Url.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Adminhtml/Url.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Head.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Page/Html/Head.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="64" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,16 +63,16 @@
       <file leaf-file-name="Observer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="646" selection-end="646" vertical-scroll-proportion="-7.3461537">
+            <state line="31" column="0" selection-start="1186" selection-end="1186" vertical-scroll-proportion="-15.192307">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.3357271">
+            <state line="14" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,7 +81,16 @@
       <file leaf-file-name="system.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="44" selection-start="4883" selection-end="4883" vertical-scroll-proportion="0.0">
+            <state line="88" column="42" selection-start="5339" selection-end="5339" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blocks.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Adminhtml/System/Config/Source/Blocks.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
@@ -108,16 +109,56 @@
         <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/template/creativestyle-dev/ip_select.phtml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="5" selection-start="171" selection-end="171" vertical-scroll-proportion="-5.8846154">
+              <folding>
+                <marker date="1389276789214" expanded="true" signature="6:164" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="47:86" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="127:156" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="421:1360" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="480:1255" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="496:1242" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="563:794" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="842:1224" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="928:1210" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="1070:1192" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="1399:1611" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="1506:1604" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="1644:6193" placeholder="..." />
+                <marker date="1389276789214" expanded="true" signature="1650:1687" placeholder="//..." />
+                <marker date="1389276789214" expanded="true" signature="1729:3324" placeholder="{&quot;rowsCount&quot;: 0...}" />
+                <marker date="1389276789214" expanded="true" signature="2836:3256" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="2920:3245" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="3325:3439" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="3483:3579" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="3826:4106" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="3896:4100" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="4036:4090" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="4230:4441" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="4302:4435" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="4712:4855" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="4803:4849" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="4894:4998" placeholder="{...}" />
+                <marker date="1389276789214" expanded="true" signature="5626:5782" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="0" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.7253142">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
+      <file leaf-file-name="mysql4-install-0.1.1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="34" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="18" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="-11.769231">
+              <folding>
+                <marker date="1389285074892" expanded="true" signature="144:362" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,14 +183,16 @@
       <list>
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Adminhtml/Url.php" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Page/Html/Head.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" />
         <option value="$PROJECT_DIR$/app/design/adminhtml/default/default/template/creativestyle-dev/ip_select.phtml" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Adminhtml/System/Config/Field/Ip.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Adminhtml/System/Config/Source/Blocks.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml" />
       </list>
     </option>
   </component>
@@ -231,57 +274,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
+              <option name="myItemId" value="code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="adminhtml" />
+              <option name="myItemId" value="local" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="Creativestyle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="Dev" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
+              <option name="myItemId" value="sql" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="creativestyle-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminhtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
+              <option name="myItemId" value="dev_setup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,44 +325,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Creativestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Helper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,177 +362,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Creativestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Creativestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Block" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Creativestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Block" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Adminhtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento-dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Creativestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Block" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Adminhtml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="System" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Field" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="com.magicento.ui.forms.MagicentoSettingsForm" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="Sportnex / Arena" serverId="805c7f6e-051c-437a-8d60-49b1bc8b52dc" autoUpload="true">
     <servers>
@@ -749,20 +564,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Adminhtml/Url.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Block/Page/Html/Head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="64" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
@@ -812,24 +613,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="34" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/template/creativestyle-dev/ip_select.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="5" selection-start="171" selection-end="171" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="44" selection-start="4883" selection-end="4883" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1389276789214" expanded="true" signature="6:164" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="47:86" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="127:156" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="421:1360" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="480:1255" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="496:1242" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="563:794" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="842:1224" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="928:1210" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="1070:1192" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="1399:1611" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="1506:1604" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="1644:6193" placeholder="..." />
+            <marker date="1389276789214" expanded="true" signature="1650:1687" placeholder="//..." />
+            <marker date="1389276789214" expanded="true" signature="1729:3324" placeholder="{&quot;rowsCount&quot;: 0...}" />
+            <marker date="1389276789214" expanded="true" signature="2836:3256" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="2920:3245" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="3325:3439" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="3483:3579" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="3826:4106" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="3896:4100" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="4036:4090" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="4230:4441" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="4302:4435" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="4712:4855" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="4803:4849" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="4894:4998" placeholder="{...}" />
+            <marker date="1389276789214" expanded="true" signature="5626:5782" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -847,16 +663,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Adminhtml/System/Config/Source/Blocks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/system.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="42" selection-start="5339" selection-end="5339" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/Model/Observer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="646" selection-end="646" vertical-scroll-proportion="-7.3461537">
+        <state line="31" column="0" selection-start="1186" selection-end="1186" vertical-scroll-proportion="-15.192307">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.3357271">
+        <state line="14" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/sql/dev_setup/mysql4-install-0.1.1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="-11.769231">
+          <folding>
+            <marker date="1389285074892" expanded="true" signature="144:362" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Creativestyle/Dev/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="0" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.7253142">
           <folding />
         </state>
       </provider>

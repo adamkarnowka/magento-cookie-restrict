@@ -11,3 +11,4 @@ Screenshot:
 ![Alt text](http://albemuth.pl/ak/2014-01-09_153851.png "Screenshot")
 
 More features to come later.
+

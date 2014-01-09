@@ -1,5 +1,5 @@
-<config>
-    <sections>
+<?xml version="1.0" encoding="UTF-8"?>
+<config><sections>
         <dev translate="label" module="creativestyle_dev">
             <groups>
                 <csoptions translate="label">
@@ -121,5 +121,4 @@
                 </csoptions>
             </groups>
         </dev>
-    </sections>
-</config>
+    </sections></config>

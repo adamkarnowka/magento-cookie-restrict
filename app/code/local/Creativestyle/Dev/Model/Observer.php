@@ -27,8 +27,9 @@ class Creativestyle_Dev_Model_Observer extends Mage_Core_Model_Observer {
         if($cookie=='enabled'){
              return $this;
         } else {
-            echo $_SERVER['REMOTE_ADDR'];
-            die('Restricted area!');
+            $blockId = Mage::getStoreConfig('dev/csoptions/blockid');
+            echo Mage::app()->getLayout()->createBlock('cms/block')->setBlockId($blockId)->toHtml();
+           die();
         }
     }
 }

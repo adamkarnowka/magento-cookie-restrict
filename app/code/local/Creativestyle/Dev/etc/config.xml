@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Creativestyle_Dev>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </Creativestyle_Dev>
     </modules>
     <frontend>
@@ -38,6 +38,16 @@
                 <class>Creativestyle_Dev_Model</class>
             </creativestyle_dev>
         </models>
+        <resources>
+            <dev_setup>
+                <setup>
+                    <module>Creativestyle_Dev</module>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </dev_setup>
+        </resources>
         <events>
             <controller_action_predispatch>
                 <observers>
@@ -65,6 +75,7 @@
                 <cookie_lifetime>7</cookie_lifetime>
                 <cookie_name>creativestyle_debug_cookie</cookie_name>
                 <key>access-key-must-be-secure</key>
+
             </csoptions>
         </dev>
     </default>
