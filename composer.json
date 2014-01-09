@@ -1,0 +1,16 @@
+{
+    "name": "adamkarnowka/magento-cookie-restrict",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Magento Cookie based restrict",
+    "homepage": "https://github.com/adamkarnowka/magento-cookie-restrict",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Adam Karnowka",
+            "email":"adam.karnowka@creativestyle.pl"
+        }
+    ]
+}
