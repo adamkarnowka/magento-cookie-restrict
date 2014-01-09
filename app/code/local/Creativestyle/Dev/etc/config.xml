@@ -62,7 +62,7 @@
     <default>
         <dev>
             <csoptions>
-                <cookie_lifetime>86400</cookie_lifetime>
+                <cookie_lifetime>7</cookie_lifetime>
                 <cookie_name>creativestyle_debug_cookie</cookie_name>
                 <key>access-key-must-be-secure</key>
             </csoptions>

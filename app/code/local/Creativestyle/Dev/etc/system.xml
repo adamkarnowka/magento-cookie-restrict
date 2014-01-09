@@ -36,8 +36,7 @@
                             <show_in_website>1</show_in_website>
                             <show_in_store>1</show_in_store>
                             <validate>validate-number</validate>
-
-                            <comment>In seconds (86400 = 24h)</comment>
+                            <comment>In days</comment>
                         </cookie_lifetime>
                         <cookie_name>
                             <depends><cookie_protection_enabled>1</cookie_protection_enabled></depends>
