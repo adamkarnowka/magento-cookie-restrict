@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Creativestyle_Dev>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Creativestyle_Dev>
+    </modules>
+</config>

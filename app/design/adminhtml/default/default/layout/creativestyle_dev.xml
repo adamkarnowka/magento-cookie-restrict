@@ -1,0 +1,7 @@
+<layout>
+    <default>
+        <reference name="notifications">
+            <block type="creativestyle_dev/adminhtml_notification" name="creativestyle_notifications" template="creativestyle-dev/notification.phtml" before="-"></block>
+        </reference>
+    </default>
+</layout>
