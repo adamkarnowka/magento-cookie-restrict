@@ -1,4 +1,4 @@
 app/code/local/Creativestyle/Dev    app/code/local/Creativestyle/Dev
 app/design/adminhtml/default/default/layout/creativestyle-dev.xml   app/design/adminhtml/default/default/layout/creativestyle-dev.xml
-app/design/adminhtml/default/default/layout/template/creativestyle-dev  app/design/adminhtml/default/default/layout/template/creativestyle-dev
+app/design/adminhtml/default/default/template/creativestyle-dev  app/design/adminhtml/default/default/template/creativestyle-dev
 app/etc/modules/Creativestyle_Dev.xml   app/etc/modules/Creativestyle_Dev.xml
