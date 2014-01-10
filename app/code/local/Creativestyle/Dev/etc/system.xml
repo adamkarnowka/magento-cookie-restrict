@@ -11,10 +11,10 @@
                     <expanded>1</expanded>
                     <fields>
                         <headline translate="label">
-                                <label>Cookie protection</label>
-                                <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
-                                <sort_order>-1</sort_order>
-                                <show_in_default>1</show_in_default>
+                            <label>Cookie protection</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>-1</sort_order>
+                            <show_in_default>1</show_in_default>
                         </headline>
                         <cookie_protection_enabled>
                             <label>Should cookie protection be enabled?</label>
@@ -59,9 +59,7 @@
                             <comment>This is needed for securing access</comment>
                             <validate>required-entry</validate>
                         </key>
-
                         <enable_url translate="label">
-
                             <label>HTML block</label>
                             <frontend_type>text</frontend_type>
                             <frontend_model>creativestyle_dev/adminhtml_url</frontend_model>
