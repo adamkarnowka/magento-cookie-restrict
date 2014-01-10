@@ -57,7 +57,6 @@
                 </observers>
             </controller_action_predispatch>
         </events>
-
     </global>
     <adminhtml>
         <layout>
