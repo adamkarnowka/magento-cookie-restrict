@@ -17,7 +17,6 @@
         </routers>
     </frontend>
     <global>
-
         <blocks>
             <creativestyle_dev>
                 <class>Creativestyle_Dev_Block</class>
@@ -68,6 +67,13 @@
                 </creativestyle_dev>
             </updates>
         </layout>
+        <translate>
+            <modules>
+                <creativestyle_dev>
+                    <files>Creativestyle_Dev.csv</files>
+                </creativestyle_dev>
+            </modules>
+        </translate>
     </adminhtml>
     <default>
         <dev>
@@ -75,7 +81,6 @@
                 <cookie_lifetime>7</cookie_lifetime>
                 <cookie_name>creativestyle_debug_cookie</cookie_name>
                 <key>access-key-must-be-secure</key>
-
             </csoptions>
         </dev>
     </default>
