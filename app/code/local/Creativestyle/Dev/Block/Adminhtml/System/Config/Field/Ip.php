@@ -1,19 +1,17 @@
 <?php
-
 class Creativestyle_Dev_Block_Adminhtml_System_Config_Field_Ip extends Mage_Adminhtml_Block_System_Config_Form_Field_Array_Abstract
 {
     protected $magentoAttributes;
 
-
     public function __construct()
     {
         $this->addColumn('ip', array(
-            'label' => Mage::helper('adminhtml')->__('IP Address'),
+            'label' => Mage::helper('creativestyle_dev')->__('IP Address'),
             'size'  => 3,
         ));
 
         $this->addColumn('comment', array(
-            'label' => Mage::helper('adminhtml')->__('Comment (optional)'),
+            'label' => Mage::helper('creativestyle_dev')->__('Comment (optional)'),
             'size'  => 3,
         ));
 
@@ -32,22 +30,14 @@ class Creativestyle_Dev_Block_Adminhtml_System_Config_Field_Ip extends Mage_Admi
         $column     = $this->_columns[$columnName];
         $inputName  = $this->getElement()->getName() . '[#{_id}][' . $columnName . ']';
 
-
-
-        if($columnName == 'ip')
-        {
+        if($columnName == 'ip'){
             $rendered = '<input name="'.$inputName.'" type="input" />';
 
-        }
-        else if($columnName == 'comment')
-        {
+        } else if($columnName == 'comment'){
             $rendered = '<input name="'.$inputName.'" type="input" />';
-
-        }
-        else {
+        } else {
             $rendered = '';
         }
-
 
         return $rendered;
     }
