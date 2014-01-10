@@ -70,7 +70,6 @@
                             <show_in_website>1</show_in_website>
                             <show_in_store>1</show_in_store>
                         </enable_url>
-
                         <whitelist>
                                 <label>Whitelisted IPs</label>
                                 <frontend_model>creativestyle_dev/adminhtml_system_config_field_ip</frontend_model>
@@ -80,7 +79,6 @@
                                 <show_in_website>1</show_in_website>
                                 <show_in_store>1</show_in_store>
                                 <comment>These addresses will not be checked against cookie protection.</comment>
-
                         </whitelist>
                         <blockid>
                             <label>Static block to be shown when access is restricted</label>
