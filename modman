@@ -2,3 +2,4 @@ app/code/local/Creativestyle/Dev    app/code/local/Creativestyle/Dev
 app/design/adminhtml/default/default/layout/creativestyle_dev.xml   app/design/adminhtml/default/default/layout/creativestyle_dev.xml
 app/design/adminhtml/default/default/template/creativestyle-dev  app/design/adminhtml/default/default/template/creativestyle-dev
 app/etc/modules/Creativestyle_Dev.xml   app/etc/modules/Creativestyle_Dev.xml
+app/locale/en_US/Creativestyle_Dev.csv  app/locale/en_US/Creativestyle_Dev.csv
