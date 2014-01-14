@@ -6,7 +6,7 @@ class Creativestyle_Dev_IndexController extends Mage_Core_Controller_Front_Actio
         $hash = base64_decode(trim($this->getRequest()->getParam('hash')));
 
         if(empty($hash)||Mage::getModel('core/encryption')->decrypt($hash)!=Mage::getStoreConfig('dev/csoptions/key')){
-            die('Wrong or empty hash!');
+            die(Mage::helper('creativestyle_dev')->__('Wrong or empty hash!'));
         }
 
         $cookie = Mage::getSingleton('core/cookie');
