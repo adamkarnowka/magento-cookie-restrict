@@ -1,5 +1,5 @@
 <?php if($this->isProtected()){?>
-    <div class="notification-global" style="background-color: #FFE9E9;">
+    <div class="notification-global" style="height:16px;background-color: #FFE9E9;">
         <span id="cookie-restrict"><strong><?php echo $this->helper('creativestyle_dev')->__('Currently, website is cookie-protected - it cannot be reached without cookie!') ?></strong>
             <?php echo $this->helper('creativestyle_dev')->__('Click <a href="%s">here</a> to change settings.', Mage::helper("adminhtml")->getUrl('adminhtml/system_config/edit/section/dev', array('section'=>'dev'))) ?>
         </span>
