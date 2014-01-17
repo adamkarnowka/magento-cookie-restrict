@@ -12,7 +12,9 @@ class Creativestyle_Dev_Block_Adminhtml_Url extends Mage_Adminhtml_Block_Abstrac
     }
 
     public function getEnableUrl(){
-        $url = Mage::getUrl('creativestyle-dev/index/enable', array('hash'=>base64_encode(Mage::getModel('core/encryption')->encrypt(Mage::getStoreConfig('dev/csoptions/key')))));
+        $storeCode = Mage::app()->getRequest()->getParam('store');
+
+        $url = Mage::app()->getStore($storeCode)->getUrl('creativestyle-dev/index/enable', array('hash'=>base64_encode(Mage::getModel('core/encryption')->encrypt(Mage::getStoreConfig('dev/csoptions/key', $storeCode)))));
         return $url;
     }
 
