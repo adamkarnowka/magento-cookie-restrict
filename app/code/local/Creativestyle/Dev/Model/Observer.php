@@ -19,7 +19,9 @@ class Creativestyle_Dev_Model_Observer extends Mage_Core_Model_Observer {
 
         $whiteListedIps = Mage::getStoreConfig('dev/csoptions/whitelist');
         try{
-            $whiteListedIps = unserialize($whiteListedIps);
+            if($whiteListedIps&&!empty($whiteListedIps)){
+                $whiteListedIps = unserialize($whiteListedIps);
+            }
         } catch (Exception $e){
             // Be quiet :)
         }
