@@ -39,7 +39,11 @@ class Creativestyle_Dev_Model_Observer extends Mage_Core_Model_Observer {
              return $this;
         } else {
             $blockId = Mage::getStoreConfig('dev/csoptions/blockid');
-            echo Mage::app()->getLayout()->createBlock('cms/block')->setBlockId($blockId)->toHtml();
+            if(!empty($blockId)){
+                echo Mage::app()->getLayout()->createBlock('cms/block')->setBlockId($blockId)->toHtml();
+            } else {
+                die('Store is currently offline.');
+            }
            die();
         }
     }
