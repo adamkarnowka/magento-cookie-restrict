@@ -15,6 +15,8 @@
                             <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
                             <sort_order>-1</sort_order>
                             <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
                         </headline>
                         <cookie_protection_enabled>
                             <label>Should cookie protection be enabled?</label>
@@ -92,6 +94,8 @@
                             <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
                             <sort_order>18</sort_order>
                             <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
                         </headline-cache>
                         <css_timestamp_enabled>
                             <label>Add timestamp to CSS files</label>
