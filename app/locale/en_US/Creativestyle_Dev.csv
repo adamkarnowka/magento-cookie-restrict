@@ -20,5 +20,6 @@
 "IP Address","IP Address"
 "Comment (optional)", "Comment (optional)"
 "Add new IP","Add new IP"
-"Currently, website is cookie-protected - it cannot be reached without cookie!","Currently, website is cookie-protected - it cannot be reached without cookie!"
+"Currently, website <b>%s</b> is cookie-protected - it cannot be reached without cookie!","Currently, website <b>%s</b> is cookie-protected - it cannot be reached without cookie!"
 "Click <a href=""%s"">here</a> to change settings.","Click <a href=""%s"">here</a> to change settings."
+"Access to this store has been granted, enjoy!","Access to this store has been granted, enjoy!"
