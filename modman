@@ -3,3 +3,4 @@ app/design/adminhtml/default/default/layout/creativestyle_dev.xml   app/design/a
 app/design/adminhtml/default/default/template/creativestyle-dev  app/design/adminhtml/default/default/template/creativestyle-dev
 app/etc/modules/Creativestyle_Dev.xml   app/etc/modules/Creativestyle_Dev.xml
 app/locale/en_US/Creativestyle_Dev.csv  app/locale/en_US/Creativestyle_Dev.csv
+skin/adminhtml/default/default/images/creativestyle-dev/logo.png    skin/adminhtml/default/default/images/creativestyle-dev/logo.png
