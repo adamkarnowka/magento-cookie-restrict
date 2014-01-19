@@ -1,6 +1,9 @@
 <?php
-
 class Creativestyle_Dev_Model_Observer extends Mage_Core_Model_Observer {
+
+    /** Function which checks whether resitriction is enabled and verifies cookie presence
+     *  @return $this
+     */
     public function checkCookie(){
         $module = Mage::app()->getRequest()->getModuleName();
         $controller = Mage::app()->getRequest()->getControllerName();
