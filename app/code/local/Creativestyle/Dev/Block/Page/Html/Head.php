@@ -1,15 +1,18 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
- * User: Adam
+ * User: Adam Karnowka
  * Date: 09.01.14
  * Time: 12:35
- * To change this template use File | Settings | File Templates.
- */ 
+ */
+
+/**
+ * Overriding Core block for adding timestamp to CSS / JS files in <head> section
+ * Class Creativestyle_Dev_Block_Page_Html_Head
+ */
 class Creativestyle_Dev_Block_Page_Html_Head extends Mage_Page_Block_Html_Head {
     public function getCssJsHtml()
     {
-        // separate items by types
+        // Separate items by types
         $lines  = array();
         foreach ($this->_data['items'] as $item) {
             if (!is_null($item['cond']) && !$this->getData($item['cond']) || !isset($item['name'])) {
