@@ -6,7 +6,7 @@ Extension for Magento developers, including:
 - IP whitelist supported (so Payone, etc can work even when site is offline)
 - frontend blocked only, meaning image upload should work
 - hash-protected guestpass URL, which can be used to grant permissions
-- adding unique timestamp for static files (css, js).
+- adding unique timestamp for static files (css, js) [issues on 1.9, to be fixed soon].
 - multistore support
 
 Extension can be configured in System / Developer section.
