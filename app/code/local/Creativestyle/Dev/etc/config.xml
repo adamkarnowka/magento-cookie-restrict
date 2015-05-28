@@ -22,9 +22,9 @@
                 <class>Creativestyle_Dev_Block</class>
             </creativestyle_dev>
             <page>
-                <rewrite>
+            <!--    <rewrite>
                     <html_head>Creativestyle_Dev_Block_Page_Html_Head</html_head>
-                </rewrite>
+                </rewrite> -->
             </page>
         </blocks>
         <helpers>
