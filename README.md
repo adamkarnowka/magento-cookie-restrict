@@ -11,9 +11,5 @@ Extension for Magento developers, including:
 
 Extension can be configured in System / Developer section.
 
-Screenshots:
-![Alt text](http://albemuth.pl/ak/2014-01-10_090944.png "Screenshot")
-![Alt text](http://albemuth.pl/ak/2014-01-09_153851.png "Screenshot")
-
 
 
